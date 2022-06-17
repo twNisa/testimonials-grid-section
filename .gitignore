@@ -10,8 +10,8 @@
 #######################################################
 *.xd
 *.fig
-/design
-/.vscode
+design/
+.vscode/
 
 
 # Avoid your project being littered with annoying .DS_Store files!
